@@ -1,0 +1,21 @@
+This is simple mail body, written by Abhishek sah(2019UIT3001).
+
+
+
+
+
+https://github.com/Abhishek-sah265/Is_codes
+
+
+
+
+Elgamal inputs:
+
+19
+10
+n
+y
+16
+hey
+n
+y
